@@ -1,0 +1,8 @@
+body{
+	position: relative;
+	background-color: #08557C;
+	background-image: url(images/bg.png);
+}
+.modal-header{
+  cursor: move;
+}
